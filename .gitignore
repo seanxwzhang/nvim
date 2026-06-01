@@ -1,0 +1,9 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+*.swo
+tags
+
+# Local-only overrides (keep machine-specific tweaks out of the repo)
+lua/plugins/local.lua
+*.local.lua
